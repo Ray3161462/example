@@ -1,2 +1,6 @@
 change file
 223
+
+测试内容 / Test Content
+这是一个示例文本文件，支持中英文双语。
+This is an example text file with bilingual Chinese and English support.
