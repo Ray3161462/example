@@ -1,2 +1,5 @@
 Hello Git!
+你好，Git！
 
+This is a test file for Git operations.
+这是一个用于 Git 操作的测试文件。
